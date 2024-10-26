@@ -20,5 +20,6 @@
   "editorStyle": "file:./index.css",
   "style": "file:./frontend.css",
   "render": "file:./render.php",
-  "viewScript": "file:./frontend.js"
+  "viewScript": "file:./frontend.js",
+  "script": "file:./script.js"
 }
