@@ -1,7 +1,7 @@
 {
   "name": "my-react-block-plugin",
   "version": "1.0.0",
-  "description": "",
+  "description": "Artikelliste",
   "main": "index.js",
   "scripts": {
     "preview": "npm-run-all --parallel sync start",
